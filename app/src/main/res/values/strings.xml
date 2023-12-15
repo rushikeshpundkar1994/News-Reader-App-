@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News Reader App Rushikesh</string>
+    <string name="api_key" translatable="false">64b703a37cd04132b277d8430d2185e6</string>
+    <string name="click_below_for_more_details">Click below for more details:</string>
+
+</resources>
